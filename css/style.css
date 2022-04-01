@@ -1,0 +1,32 @@
+body{
+    background:url("../img/bratz.jpg");
+    text-align: center;
+   
+}
+h1{
+    color: aliceblue;
+    ;
+}
+button{
+    padding: 12px 40px ;
+    margin: 30px 20px;
+    border:2px dashed #FF0080;
+    border-radius:10px;
+    color: aliceblue;
+    background: #ff0080;
+    transition: 0.5s;
+    
+}
+p{
+    color:aliceblue;
+}
+
+h2{
+    color: rgb(206, 203, 204);
+    
+}
+button:hover{
+    background:#ffff;
+    color:black;
+    cursor: pointer;
+}
